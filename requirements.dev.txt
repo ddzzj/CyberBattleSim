@@ -6,7 +6,7 @@ jedi
 pandas
 jupyter>=1.0.0
 
-torch===1.5.1
+torch===2.2.0
 
 # linter and formatter
 flake8
